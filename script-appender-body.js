@@ -1,7 +1,7 @@
 var bodyScripts = [
-    'https://cdn.rawgit.com/Caundy/widget-bundles/1cd9f19d/inline.f270198606ce1cad91ee.bundle.js',
-    'https://cdn.rawgit.com/Caundy/widget-bundles/1cd9f19d/polyfills.32225f5d64cec6731cb0.bundle.js',
-    'https://cdn.rawgit.com/Caundy/widget-bundles/1cd9f19d/main.2dca7b33c27144a5305f.bundle.js'
+    'https://cdn.rawgit.com/Caundy/widget-bundles/42a0d2e4/inline.244ed330a0e191a2e259.bundle.js',
+    'https://cdn.rawgit.com/Caundy/widget-bundles/42a0d2e4/polyfills.32225f5d64cec6731cb0.bundle.js',
+    'https://cdn.rawgit.com/Caundy/widget-bundles/42a0d2e4/main.d9539612a8f3169c33dc.bundle.js'
 ];
 
 var widget = document.createElement('mail-widget');
