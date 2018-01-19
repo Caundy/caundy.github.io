@@ -12,8 +12,3 @@ for (var i=0; i < headLinks.length; i++){
     
     document.head.appendChild(link);
 }
-/* 
-var widget = document.createElement('mail-widget');
-document.body.appendChild(widget); */
-
-

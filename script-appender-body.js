@@ -4,16 +4,14 @@ var bodyScripts = [
     'https://cdn.rawgit.com/Caundy/widget-bundles/a5df6981/main.ea95cb6133e3850a7270.bundle.js'
 ];
 
-/* var widget = document.createElement('widget');
-document.body.appendChild(widget); */
+var widget = document.createElement('mail-widget');
+document.body.appendChild(widget);
 
 for (var i=0; i < bodyScripts.length; i++){
     var script = document.createElement('script');
     script.type = 'text/javascript';
     script.src = bodyScripts[i];
-    //script.async = true;    
-
-    console.log('appending')        
+           
     document.body.appendChild(script);
 }
 
