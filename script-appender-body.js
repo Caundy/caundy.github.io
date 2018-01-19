@@ -1,7 +1,7 @@
 var bodyScripts = [
-    'https://rawgit.com/Caundy/widget-bundles/master/inline.2ff5dde95cfc4ae441ed.bundle.js',
-    'https://rawgit.com/Caundy/widget-bundles/master/polyfills.32225f5d64cec6731cb0.bundle.js',
-    'https://rawgit.com/Caundy/widget-bundles/master/main.838956031441a33bedc8.bundle.js'
+    'https://cdn.rawgit.com/Caundy/widget-bundles/a5df6981/inline.52f6c100d38402101898.bundle.js',
+    'https://cdn.rawgit.com/Caundy/widget-bundles/a5df6981/polyfills.32225f5d64cec6731cb0.bundle.js',
+    'https://cdn.rawgit.com/Caundy/widget-bundles/a5df6981/main.ea95cb6133e3850a7270.bundle.js'
 ];
 
 /* var widget = document.createElement('widget');
